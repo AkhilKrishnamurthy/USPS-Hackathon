@@ -47,7 +47,7 @@ var password = "password";
   service: 'gmail',
   auth: {
     user: 'akhilkrishnamoorthy@gmail.com',
-    pass: '9790863485'
+    pass: '********'
   }
 });
 
